@@ -1,4 +1,4 @@
-## Graphics and Lights
+## Graphics & Lights
 
 All graphics and lights operators must be reliable and quick to respond to communication.
 
