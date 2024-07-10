@@ -1,6 +1,6 @@
 ## Video Director
 
-All video directors must be reliable and quick to respond to communication.
+Operate the video switcher and ensure a quality production that is on brand for Christ Covenant.
 
 - - -
 <br> 

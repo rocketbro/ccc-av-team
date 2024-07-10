@@ -1,6 +1,6 @@
 ## Camera Operator
 
-All camera operators must be reliable and quick to respond to communication.
+The camera operator will operate the five PTZ cameras in the worship center, as directed by the Video Director.
 
 - - -
 <br>

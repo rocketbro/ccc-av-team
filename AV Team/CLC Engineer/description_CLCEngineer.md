@@ -1,6 +1,6 @@
 ## Community Life Center (CLC) Engineer
 
-All Sunday School Prep operators must be reliable and quick to respond to communication.
+All CLC Engineers must be reliable and quick to respond to communication.
 
 - - -
 <br>
@@ -16,7 +16,7 @@ All Sunday School Prep operators must be reliable and quick to respond to commun
 - Can train and supervise junior and rookie operators
 
 #### Availability
-To be a senior Sunday School Prep operator, you need to be available during Sunday school seasons, once a week.
+To be a senior CLC Engineer, you need to be available during Sunday school seasons, once a week.
 
 <br>
 
@@ -29,7 +29,7 @@ To be a senior Sunday School Prep operator, you need to be available during Sund
 - Learns to handle HDMI cables, converters, and conference room AV setups
 
 #### Availability
-To be a junior Sunday School Prep operator, you need to be available during Sunday school seasons, once a week.
+To be a junior CLC Engineer, you need to be available during Sunday school seasons, once a week.
 
 <br>
 
@@ -41,4 +41,4 @@ To be a junior Sunday School Prep operator, you need to be available during Sund
 - Assists with setting up simple sound systems for classes
 
 #### Availability
-To be a rookie Sunday School Prep operator, you need to be available during Sunday school seasons, once a week.
+To be a rookie CLC Engineer, you need to be available during Sunday school seasons, once a week.
