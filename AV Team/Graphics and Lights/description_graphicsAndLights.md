@@ -1,6 +1,6 @@
 ## Graphics & Lights
 
-All graphics and lights operators must be reliable and quick to respond to communication.
+Run slides, graphics, and videos for services using ProPresenter, and operate the lighting console.
 
 - - -
 <br> 

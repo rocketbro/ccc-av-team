@@ -1,6 +1,6 @@
 ## Sound Engineer
 
-All sound engineers must be reliable and quick to respond to communication.
+Operate the sound system and set up sound equipment as needed.
 
 - - -
 <br>

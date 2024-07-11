@@ -1,6 +1,6 @@
 ## Murphy’s Law Technician
 
-All Murphy’s Law Technicians must be reliable and quick to respond to communication.
+This position is in answer to Murphy's Law, which states that *anything that can go wrong will go wrong.* Put out fires around the campus. 
 
 - - -
 <br> 
